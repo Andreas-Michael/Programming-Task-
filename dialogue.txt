@@ -1,0 +1,23 @@
+me$ learn this > uop: uni
+3B$ agnosto 2  uop
+me$ learn this > bot: stupid
+3B$ agnosto 2  bot
+me$ forget this > uo
+3B$ 1 I used to know  uop, but not anymore!
+me$ forget this > uo
+3B$ 4 I never knew about uo
+me$ forget this > Bo
+3B$ 2 I used to know  bot, but not anymore!
+me$ learn this > uop: uni
+3B$ agnosto 1  uop
+me$ learn this > dog: pat
+3B$ agnosto 2  dog
+me$ learn this > house: hot
+3B$ agnosto 4  house
+me$ forget this > uop
+3B$ 3 I used to know  uop, but not anymore!
+me$ forget this > hO
+3B$ 4 I used to know  house, but not anymore!
+me$ forget this > do
+3B$ 1 I used to know  dog, but not anymore!
+me$ exit
